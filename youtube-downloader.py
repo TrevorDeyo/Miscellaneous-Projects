@@ -15,7 +15,7 @@ options = {
 }
 
 # Specify the playlist URL
-playlist_url = 'https://www.youtube.com/playlist?list=PL4waBsMLGZzJrLloEMSAf3bqQF48QqvIk'
+playlist_url = 'https://www.youtube.com/playlist?list=PL4waBsMLGZzK6gYLG2pd7RoyxD1TfD2uA'
 
 # Download the playlist
 with ydl:
